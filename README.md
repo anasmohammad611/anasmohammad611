@@ -8,18 +8,17 @@
 
 I'm a passionate developer who loves building impactful projects and contributing to open-source.
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Learning Topic]
-- 👯 I’m looking to collaborate on [Collaboration Topic]
-- 💬 Ask me about [Your Expertise]
+- 🔭 I’m currently working on a golang project.
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on backend heavy projects
+- 💬 Ask me about backend development.
 - 📫 How to reach me: mohammadanas796@gmail.com
-- ⚡ Fun fact: [Fun Fact About You]
+- ⚡ Fun fact: I can sleep for 12 hours straight.
 
 ## 🛠️ Skills
 
-- Programming Languages: [Language 1, Language 2, Language 3]
-- Frameworks & Libraries: [Framework 1, Library 2]
-- Tools & Platforms: [Tool 1, Platform 2]
+- Programming Languages: [java, python, go]
+- Frameworks & Libraries: [spring boot, gin, fiber]
 
 ## 📈 GitHub Stats
 
@@ -32,7 +31,6 @@ I'm a passionate developer who loves building impactful projects and contributin
 
 ## 📫 Connect with me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN])
-- Twitter: [Your Twitter](https://twitter.com/[YOUR_TWITTER])
-- Email: [Your Email](mailto:[YOUR_EMAIL])
+- LinkedIn: [lnkdn](https://www.linkedin.com/in/mohammed-anas-lnkdn/)
+- Twitter: [twtr](https://twitter.com/mo_anas46)
 
