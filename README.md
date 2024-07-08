@@ -25,12 +25,9 @@ I'm a passionate developer who loves building impactful projects and contributin
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmohammad611&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmohammad611&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=anasmohammad611&theme=onedark)
 
 ## 📫 Connect with me
 
-- LinkedIn: [lnkdn](https://www.linkedin.com/in/mohammed-anas-lnkdn/)
-- Twitter: [twtr](https://twitter.com/mo_anas46)
+- [lnkdn](https://www.linkedin.com/in/mohammed-anas-lnkdn/)
+- [twtr](https://twitter.com/mo_anas46)
 
