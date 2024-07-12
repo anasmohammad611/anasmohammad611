@@ -13,7 +13,7 @@ I'm a passionate developer who loves building impactful projects and contributin
 - 👯 I’m looking to collaborate on backend heavy projects
 - 💬 Ask me about backend development.
 - 📫 How to reach me: mohammadanas796@gmail.com
-- ⚡ Fun fact: I can sleep for 12 hours straight.
+- ⚡ Fun fact: I use tabs over spaces
 
 ## 🛠️ Skills
 
