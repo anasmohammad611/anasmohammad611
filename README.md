@@ -9,16 +9,13 @@
 I'm a passionate developer who loves building impactful projects and contributing to open-source.
 
 - 🔭 I’m currently working on a golang project.
-- 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on backend heavy projects
-- 💬 Ask me about backend development.
-- 📫 How to reach me: mohammadanas796@gmail.com
 - ⚡ Fun fact: I use tabs over spaces
 
 ## 🛠️ Skills
 
 - Programming Languages: [java, python, go]
-- Frameworks & Libraries: [spring boot, gin, fiber]
+- Frameworks & Libraries: [spring boot, cobra-cli, fastapi]
 
 ## 📈 GitHub Stats
 
