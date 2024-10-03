@@ -15,4 +15,4 @@ I'm a passionate developer who loves building impactful projects and contributin
 ## 🛠️ Skills
 
 - Programming Languages: [java, python, go]
-- Frameworks & Libraries: [spring boot, cobra-cli, fastapi]
+- Frameworks & Libraries: [spring boot, gin]
